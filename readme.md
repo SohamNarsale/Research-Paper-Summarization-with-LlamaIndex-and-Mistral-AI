@@ -1,4 +1,4 @@
-```markdown
+
 # RAG based Research Paper Summarization using Llama Index and Mistral-AI
 
 This project provides a Python-based Retrieval-Augmented Generation (RAG) pipeline for summarizing research papers using the `llama_index` library. Leveraging advanced language models from Mistral AI and Hugging Face embeddings, this tool allows users to generate comprehensive summaries from academic documents or articles.
