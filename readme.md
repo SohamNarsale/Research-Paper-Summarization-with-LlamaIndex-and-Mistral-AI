@@ -1,5 +1,3 @@
-Here's a `README.md` template for your GitHub repository:
-
 ```markdown
 # RAG based Research Paper Summarization using Llama Index and Mistral-AI
 
