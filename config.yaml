@@ -1,0 +1,8 @@
+api_key: "YOUR_API_KEY"
+model_name: "open-mixtral-8x7b"
+embedding_model: "BAAI/bge-base-en-v1.5"
+temperature: 0.1
+chunk_size: 2048
+chunk_overlap: 256
+num_output: 4096
+context_window: 8192
